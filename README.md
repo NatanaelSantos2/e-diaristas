@@ -17,7 +17,7 @@ Adicione aqui algumas imagens das telas do projeto.
 ## 🛠 Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/e-diarista.git
+   git clone https://github.com/NatanaelSantos2/e-diaristas.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
