@@ -12,7 +12,9 @@ Projeto desenvolvido durante o curso TreinaWeb utilizando **HTML, CSS e JavaScri
 - **JavaScript** - Validações e interações dinâmicas.
 
 ## 📷 Screenshots
-Adicione aqui algumas imagens das telas do projeto.
+![e-diaristas(home)](https://github.com/user-attachments/assets/aba51cc4-3de5-4bec-9b8d-173e0938fdef)
+![e-diaristas(login)](https://github.com/user-attachments/assets/529c305d-59bf-4baa-8c3a-d8de423345b5)
+
 
 ## 🛠 Como Executar o Projeto
 1. Clone este repositório:
